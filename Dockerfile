@@ -2,4 +2,4 @@
 FROM tomcat:9.0-jdk17
 
 # WAR dosyasını Tomcat’in webapps klasörüne kopyalıyoruz
-COPY serdarlwone.war /usr/local/tomcat/webapps/
+COPY miladlwone.war /usr/local/tomcat/webapps/
